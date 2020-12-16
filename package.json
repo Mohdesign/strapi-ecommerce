@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "next": "10.0.3",
+    "next-tinacms-markdown": "^0.34.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-markdown": "^5.0.3",
+    "react-tinacms-editor": "^0.35.0",
+    "react-tinacms-inline": "^0.35.0",
+    "styled-components": "^5.2.1",
+    "tinacms": "^0.34.0"
   }
 }
